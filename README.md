@@ -5,6 +5,7 @@ Welcome to the "AI Probabilistic Reasoning Exercise" repository! This repository
 ## Table of Contents
 
 - [Overview](#overview)
+- [Course Info](#overview)
 - [Exercise Details](#exercise-details)
 - [Directory Structure](#directory-structure)
 - [Usage](#usage)
@@ -14,6 +15,15 @@ Welcome to the "AI Probabilistic Reasoning Exercise" repository! This repository
 ## Overview
 
 This repository is dedicated to solving and documenting a series of problems related to probabilistic reasoning and logical inference in the field of artificial intelligence. The exercise covers topics such as constructing knowledge bases, logical inference, model checking, resolution, and probability calculations.
+
+
+## Course Information
+
+- **Course Name:** Artificial Intelligence (CPSC 481)
+- **Course Section:** 05 (Fall 2023)
+- **Instructor:** Professor Kenytt Avery
+- **University:** California State University, Fullerton
+- **Semester:** Fall 2023
 
 ## Exercise Details
 
